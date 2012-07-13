@@ -1,8 +1,8 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'Title Goes Here<br>Up To Two Lines',
-    subtitle: 'Subtitle Goes Here',
+    title: 'Google I/O 2012<br> CATCH UP!',
+    subtitle: 'The future of Google',
     useBuilds: true, // Default: true. False will turn off slide animation builds.
     usePrettify: true, // Default: true
     enableSlideAreas: true, // Default: true. False turns off the click areas on either slide of the slides.
@@ -18,12 +18,12 @@ var SLIDE_CONFIG = {
 
   // Author information
   presenters: [{
-    name: 'Firstname Lastname',
-    company: 'Job Title, Google',
-    gplus: 'http://plus.google.com/1234567890',
-    twitter: '@yourhandle',
-    www: 'http://www.you.com',
-    github: 'http://github.com/you'
+    name: 'Akira Sugimoto',
+    company: 'Smartphone Applications Engineer, SystemStdioTETSU',
+    gplus: 'http://plus.google.com/102914388299940417849',
+    twitter: '@sugimotoak',
+    www: 'http://about.me/sugimotoak',
+    github: 'http://github.com/sugimotoak'
   }/*, {
     name: 'Second Name',
     company: 'Job Title, Google',
