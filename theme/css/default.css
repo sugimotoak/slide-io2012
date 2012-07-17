@@ -295,7 +295,7 @@ slides > slide.dark {
 /* line 171, ../scss/default.scss */
 slides > slide:not(.nobackground):before {
   font-size: 12pt;
-  content: "#io12";
+  content: "sugimotoak.github.com/slide-io2012/";
   position: absolute;
   bottom: 20px;
   left: 60px;
